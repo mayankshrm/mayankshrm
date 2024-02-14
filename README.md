@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayank Sharma</h1>
 <h3 align="justify">Hey there! I'm your friendly full-stack developer, here to make your web dreams come true! Whether it's crafting sleek designs or making sure everything runs smoothly behind the scenes, I've got you covered. Think of me as your website's personal superhero – ready to swoop in and save the day, one line of code at a time! So, let's team up and create something awesome together! 🦸‍♂️💻</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankshrm&label=Profile%20views&color=0e75b6&style=flat" alt="mayankshrm" /> </p>
 
