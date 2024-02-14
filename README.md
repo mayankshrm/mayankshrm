@@ -5,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankshrm&label=Profile%20views&color=0e75b6&style=flat" alt="mayankshrm" /> </p>
 
-- 💬 Ask me about **React, Java, JavaScript**
+<p align="left"> <a href="https://twitter.com/mmayank465" target="blank"><img src="https://img.shields.io/twitter/follow/mmayank465?logo=twitter&style=for-the-badge" alt="mmayank465" /></a> </p>
+
+- 💬 Ask me about **Web-App development & it's Frameworks**
 
 - 📫 How to reach me **mayankshrm101@gmail.com**
 
@@ -13,6 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://twitter.com/mmayank465" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mmayank465" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/mayank-sharma-6b41a2199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank-sharma-6b41a2199" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mayankshrm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mayankshrm" height="30" width="40" /></a>
 </p>
 
