@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mayankshrm101@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Cz1Whao32JdeYvIFNt2L93Dv7PkPOiqd/view?usp=sharing](https://drive.google.com/file/d/1Cz1Whao32JdeYvIFNt2L93Dv7PkPOiqd/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Lefvn7ip7BroDSomKgyXHVRgXiC2gDX8/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
