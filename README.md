@@ -12,7 +12,7 @@
 - 📫 How to reach me **mayankshrm101@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Lefvn7ip7BroDSomKgyXHVRgXiC2gDX8/view?usp=sharing)
-- 📄 Portfolio [Link](portfolio-mayankshrms-projects.vercel.app)
+- 📄 Portfolio [Link](https://portfolio-mayankshrms-projects.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
